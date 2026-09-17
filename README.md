@@ -1,2 +1,0 @@
-# IBI
-Employee Management System
